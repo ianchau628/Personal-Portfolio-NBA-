@@ -10,10 +10,11 @@ import sidewlkSite3 from "@/assets/sidewlk-site-3.jpg";
 import sidewlkFloorplan from "@/assets/sidewlk-floorplan.png";
 import sidewlkTeam from "@/assets/sidewlk-team-new.jpg";
 import sidePresentsLogo from "@/assets/side-presents-logo.png";
-import hkuCrest from "@/assets/hku-crest.jpg";
+import hkuCrest from "@/assets/original.png";
 import web3Alibaba from "@/assets/web3-alibaba.jpg";
 import web3Temple from "@/assets/web3-temple.jpg";
 import web3Hangzhou from "@/assets/web3-hangzhou.jpg";
+import sidewlkSubmark from "@/assets/submark+neon_1.webp";
 
 const Work = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -171,7 +172,7 @@ const Work = () => {
           <Card className="p-8 shadow-elegant">
             <div className="flex items-start gap-4 mb-6">
               <img 
-                src={sidePresentsLogo} 
+                src={sidewlkSubmark} 
                 alt="SIDE Presents logo" 
                 className="w-16 h-16 object-contain flex-shrink-0"
               />

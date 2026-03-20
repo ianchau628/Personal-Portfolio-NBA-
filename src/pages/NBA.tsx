@@ -14,9 +14,9 @@ import arena3 from "@/assets/IMG_2849.jpeg";
 import arena4 from "@/assets/IMG_6716.jpeg";
 import arena5 from "@/assets/IMG_6731.jpeg";
 import arena6 from "@/assets/IMG_6739.jpeg";
-import arena7 from "@/assets/IMG_7140.jpeg";
-import arena8 from "@/assets/IMG_4179.jpeg";
-import arena9 from "@/assets/IMG_4181.jpeg";
+import arena7 from "@/assets/IMG_4179.jpeg";
+import arena8 from "@/assets/IMG_4181.jpeg";
+import arena9 from "@/assets/IMG_7140.jpeg";
 
 const NBA = () => {
   return (

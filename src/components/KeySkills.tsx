@@ -27,10 +27,12 @@ const skillsData = [
 
 import hkuBusinessLogo from "@/assets/hku-business-logo.jpg";
 import cathayLogo from "@/assets/cathay-logo.png";
+import hkuLogo from "@/assets/original.png";
+import unnamedJpg from "@/assets/unnamed.jpg";
 
 const achievements = [
   {
-    logo: hkuBusinessLogo,
+    logo: hkuLogo,
     title: "External Vice-President, Information Systems Association HKU",
     year: "2022-23",
     description: "Led partnerships with 20+ external organizations (F&B, Accounting) and organized career-oriented events, demonstrating strong leadership and relationship-building skills."
@@ -42,7 +44,7 @@ const achievements = [
     description: "Competed against 280 students (selected from 1,500). Developed and pitched a prototype solution for a Virtual Assistant to industry experts."
   },
   {
-    logo: hkuBusinessLogo,
+    logo: unnamedJpg,
     title: "HKU-Accenture Business Consulting Programme",
     year: "2024",
     description: "Developed practical skills in problem-solving, strategic thinking, and teamwork through a challenging case competition."
