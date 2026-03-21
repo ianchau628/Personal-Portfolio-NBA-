@@ -27,12 +27,12 @@ const skillsData = [
 
 import hkuBusinessLogo from "@/assets/hku-business-logo.jpg";
 import cathayLogo from "@/assets/cathay-logo.png";
-import hkuLogo from "@/assets/original.png";
+import isaLogo from "@/assets/ISA Logo B 2022-10-26 08_10_18.png";
 import unnamedJpg from "@/assets/unnamed.jpg";
 
 const achievements = [
   {
-    logo: hkuLogo,
+    logo: isaLogo,
     title: "External Vice-President, Information Systems Association HKU",
     year: "2022-23",
     description: "Led partnerships with 20+ external organizations (F&B, Accounting) and organized career-oriented events, demonstrating strong leadership and relationship-building skills."
