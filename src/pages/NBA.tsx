@@ -54,12 +54,12 @@ const NBA = () => {
             <div className="space-y-6">
               {/* Image Collage - Row format */}
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={basketball2} 
                   alt="NBA Central Market Event" 
                   className="w-full h-48 md:h-64 object-cover object-center rounded"
                 />
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={basketball3} 
                   alt="Hennessy x NBA Campaign" 
                   className="w-full h-48 md:h-64 object-cover object-center rounded"
@@ -90,17 +90,17 @@ const NBA = () => {
             <div className="space-y-6">
               {/* Image Collage - Row format */}
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={basketball1} 
                   alt="Meeting Shaquille O'Neal and Mike Miller" 
                   className="w-full h-48 md:h-64 object-cover object-[center_15%] rounded"
                 />
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={basketball4} 
                   alt="Al Horford signing autographs" 
                   className="w-full h-48 md:h-64 object-cover object-center rounded"
                 />
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={basketball5} 
                   alt="CM Punk at the game" 
                   className="w-full h-48 md:h-64 object-cover object-center rounded"
@@ -132,17 +132,17 @@ const NBA = () => {
               {/* TD Garden / Celtics */}
               <div className="space-y-4">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={arena1} 
                     alt="TD Garden 1" 
                     className="w-full h-48 md:h-64 object-cover object-center rounded"
                   />
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={arena3} 
                     alt="TD Garden 2" 
                     className="w-full h-48 md:h-64 object-cover object-center rounded"
                   />
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={arena2} 
                     alt="TD Garden 3" 
                     className="w-full h-48 md:h-64 object-cover object-center rounded"
@@ -158,17 +158,17 @@ const NBA = () => {
               {/* Intuit Dome / Clippers */}
               <div className="space-y-4">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={arena4} 
                     alt="Intuit Dome 1" 
                     className="w-full h-48 md:h-64 object-cover object-center rounded"
                   />
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={arena5} 
                     alt="Intuit Dome 2" 
                     className="w-full h-48 md:h-64 object-cover object-center rounded"
                   />
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={arena6} 
                     alt="Intuit Dome 3" 
                     className="w-full h-48 md:h-64 object-cover object-center rounded"
@@ -184,17 +184,17 @@ const NBA = () => {
               {/* Additional Arena Experience */}
               <div className="space-y-4">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={arena7} 
                     alt="Arena Experience 1" 
                     className="w-full h-48 md:h-64 object-cover object-center rounded"
                   />
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={arena8} 
                     alt="Arena Experience 2" 
                     className="w-full h-48 md:h-64 object-cover object-center rounded"
                   />
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={arena9} 
                     alt="Arena Experience 3" 
                     className="w-full h-48 md:h-64 object-cover object-center rounded"

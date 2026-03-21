@@ -3,7 +3,7 @@ import Navigation from "@/components/Navigation";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { GraduationCap, Award, Globe, Heart } from "lucide-react";
-import hkuCrest from "@/assets/hku-crest.jpg";
+import hkuCrest from "@/assets/1d@750.jpg";
 import northeasternSeal from "@/assets/northeastern-seal.png";
 import basketball1 from "@/assets/basketball-1.jpg";
 import basketball2 from "@/assets/basketball-2.jpg";
@@ -48,27 +48,23 @@ const About = () => {
             
             <div className="space-y-6 text-muted-foreground leading-relaxed">
               <p className="text-lg">
-                I'm Ian Chau, an aspiring Sports Business Leader with a passion for leveraging data and technology to solve complex business problems. Currently pursuing my Bachelor of Business Administration in Business Analytics at The University of Hong Kong, I've complemented my academic foundation with hands-on experience in digital transformation, business development, and tech startups.
+                I am an aspiring sports business leader driven by a simple goal: using data and technology to solve the toughest problems in the industry. Currently finishing my degree in Business Analytics at The University of Hong Kong, I have spent my time outside the classroom at the intersection of digital transformation and tech startups.
               </p>
 
-              <p>
-                My journey began with a fascination for how technology and data transform global industries, including sports and entertainment. Through internships at Airport Authority Hong Kong, AXA, and leading tech companies, I've learned to navigate the crucial intersection between business stakeholders and technical teams—translating strategic vision into actionable project roadmaps.
+              <p className="text-lg">
+                My path started with a genuine curiosity about how data can change the game for global industries. Through my time at Airport Authority Hong Kong and AXA, I learned how to act as a bridge between technical teams and business stakeholders, turning a high-level vision into a concrete roadmap.
               </p>
 
-              <p>
-                What sets me apart is my <strong>analytical approach to business strategy and digital innovation</strong>. I don't just understand data as a buzzword—I've built OCR models, developed RPA solutions with 90% accuracy, and presented AI strategy frameworks to C-level executives. I see analytics and innovation as tools to augment decision-making, automate workflows, and unlock new value propositions.
+              <p className="text-lg">
+                What defines my approach is a focus on practical innovation. I don’t just talk about data; I’ve built OCR models, developed RPA solutions, and presented AI frameworks to executive leadership. For me, analytics is about more than just numbers. It is a tool to automate the tedious work and unlock real value for a business.
               </p>
 
-              <p>
-                As a <strong>Professional Scrum Master (PSM I)</strong> and a student leader, I bring structured agile methodologies and strong interpersonal skills to every project. Whether facilitating daily stand-ups, managing product backlogs, or leading partnerships with 20+ external organizations as the External VP of the Information Systems Association, I thrive in dynamic environments that demand both strategic thinking and hands-on execution.
+              <p className="text-lg">
+                As a certified Professional Scrum Master and a student leader, I bring an agile mindset to everything I do. Whether I am managing a product backlog or leading partnerships with dozens of external organizations, I thrive in fast-paced environments that require both quick thinking and hands-on execution.
               </p>
 
-              <p>
-                My experience spans <strong>enterprise automation, digital transformation, fintech product development, and B2B market research</strong>. This diversity has taught me to adapt quickly, communicate effectively across technical and non-technical audiences, and always focus on measurable business impact.
-              </p>
-
-              <p className="text-lg font-medium text-foreground">
-                I'm actively seeking opportunities in the sports and entertainment industry where I can combine my analytical expertise, leadership skills, and lifelong passion for basketball to drive global business objectives.
+              <p className="text-lg">
+                With a background spanning fintech, enterprise automation, and market research, I’ve learned to adapt quickly and communicate effectively with any audience. I am now looking for opportunities in sports and entertainment where I can combine my analytical skills and lifelong love for basketball to help organizations hit their global objectives.
               </p>
             </div>
           </Card>
@@ -87,7 +83,7 @@ const About = () => {
             <Card className="p-8">
               <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-4">
                 <div className="flex items-start gap-4 flex-1">
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={hkuCrest} 
                     alt="HKU logo" 
                     className="w-16 h-16 object-contain flex-shrink-0"
@@ -111,7 +107,7 @@ const About = () => {
             <Card className="p-8">
               <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-4">
                 <div className="flex items-start gap-4 flex-1">
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={northeasternSeal} 
                     alt="Northeastern University logo" 
                     className="w-16 h-16 object-contain flex-shrink-0"
@@ -206,17 +202,17 @@ const About = () => {
                   Beyond my professional pursuits, I'm passionate about <strong className="text-foreground">basketball</strong> and <strong className="text-foreground">traveling</strong>. Basketball has taught me the value of teamwork, quick decision-making under pressure, and the importance of continuous practice—skills that translate directly to project management.
                 </p>
                 <div className="grid grid-cols-3 gap-4">
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={basketball1} 
                     alt="Basketball game" 
                     className="w-full h-48 object-cover rounded-lg"
                   />
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={basketball2} 
                     alt="Playing basketball outdoors" 
                     className="w-full h-48 object-cover rounded-lg"
                   />
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={basketball3} 
                     alt="Basketball court" 
                     className="w-full h-48 object-cover rounded-lg"
@@ -229,17 +225,17 @@ const About = () => {
                   My passion for travel is driven by a deep curiosity to understand other cultures and connect with new people. I seek out these experiences to broaden my perspective, and they fundamentally inform my approach to building inclusive products and managing projects for global audiences.
                 </p>
                 <div className="grid grid-cols-3 gap-4">
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={travel1} 
                     alt="Travel destination" 
                     className="w-full h-48 object-cover rounded-lg"
                   />
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={travel2} 
                     alt="Mt. Fuji view" 
                     className="w-full h-48 object-cover rounded-lg"
                   />
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={travel3} 
                     alt="Travel experience" 
                     className="w-full h-48 object-cover rounded-lg"

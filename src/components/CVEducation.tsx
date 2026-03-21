@@ -68,7 +68,7 @@ const CVEducation = () => {
                 <Card key={index} className="p-6 shadow-card">
                   <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4 mb-4">
                     <div className="flex items-start gap-4 flex-1">
-                      <img 
+                      <img loading="lazy" decoding="async" 
                         src={edu.logo} 
                         alt={`${edu.school} logo`} 
                         className="w-16 h-16 object-contain flex-shrink-0"

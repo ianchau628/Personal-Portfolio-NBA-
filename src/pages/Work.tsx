@@ -10,7 +10,7 @@ import sidewlkSite3 from "@/assets/sidewlk-site-3.jpg";
 import sidewlkFloorplan from "@/assets/sidewlk-floorplan.png";
 import sidewlkTeam from "@/assets/sidewlk-team-new.jpg";
 import sidePresentsLogo from "@/assets/side-presents-logo.png";
-import hkuCrest from "@/assets/hku-logo.jpg";
+import hkuCrest from "@/assets/1d@750.jpg";
 import web3Alibaba from "@/assets/web3-alibaba.jpg";
 import web3Temple from "@/assets/web3-temple.jpg";
 import web3Hangzhou from "@/assets/web3-hangzhou.jpg";
@@ -41,7 +41,7 @@ const Work = () => {
           {/* Tech for Social Good Project */}
           <Card className="p-8 shadow-elegant">
             <div className="flex items-start gap-4 mb-6">
-              <img 
+              <img loading="lazy" decoding="async" 
                 src={hkuCrest} 
                 alt="HKU logo" 
                 className="w-16 h-16 object-contain flex-shrink-0"
@@ -63,17 +63,17 @@ const Work = () => {
             <div className="space-y-6">
               {/* Image Collage */}
               <div className="grid grid-cols-3 gap-2 mb-6">
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={web3Alibaba} 
                   alt="Web3 course at Alibaba" 
                   className="w-full h-40 object-cover object-center rounded"
                 />
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={web3Temple} 
                   alt="Web3 course field trip" 
                   className="w-full h-40 object-cover object-center rounded"
                 />
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={web3Hangzhou} 
                   alt="Web3 course at Hangzhou" 
                   className="w-full h-40 object-cover object-center rounded"
@@ -171,7 +171,7 @@ const Work = () => {
           {/* SIDEWLK Project */}
           <Card className="p-8 shadow-elegant">
             <div className="flex items-start gap-4 mb-6">
-              <img 
+              <img loading="lazy" decoding="async" 
                 src={sidewlkSubmark} 
                 alt="SIDE Presents logo" 
                 className="w-16 h-16 object-contain flex-shrink-0"
@@ -192,17 +192,17 @@ const Work = () => {
             <div className="space-y-6">
               {/* Image Collage */}
               <div className="grid grid-cols-3 gap-2 mb-6">
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={sidewlkTeam} 
                   alt="SIDEWLK project team" 
                   className="w-full h-40 object-cover object-top rounded"
                 />
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={sidewlkSite2} 
                   alt="SIDEWLK venue entrance" 
                   className="w-full h-40 object-cover object-center rounded"
                 />
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={sidewlkSite3} 
                   alt="SIDEWLK neighborhood" 
                   className="w-full h-40 object-cover object-center rounded"

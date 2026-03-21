@@ -105,7 +105,7 @@ const KeySkills = () => {
             {achievements.map((achievement, index) => (
               <Card key={index} className="p-6 shadow-card hover:shadow-elegant transition-all duration-300 border-l-4 border-l-primary">
                 <div className="flex items-start gap-4">
-                  <img 
+                  <img loading="lazy" decoding="async" 
                     src={achievement.logo} 
                     alt={`${achievement.title} logo`}
                     className="w-16 h-16 object-contain flex-shrink-0 rounded"

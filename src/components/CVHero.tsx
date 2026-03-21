@@ -7,7 +7,7 @@ const CVHero = () => {
     <section className="min-h-screen bg-gradient-hero flex items-center justify-center px-4 py-20">
       <div className="max-w-4xl mx-auto text-center">
         <div className="relative inline-block mb-8">
-          <img
+          <img loading="lazy" decoding="async"
             src={profilePhoto}
             alt="Professional headshot"
             className="w-48 h-48 rounded-full object-cover object-top mx-auto shadow-hero border-4 border-primary-foreground/20"

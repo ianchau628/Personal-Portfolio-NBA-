@@ -9,7 +9,7 @@ const PMHero = () => {
       <div className="max-w-5xl mx-auto text-center">
         <div className="mb-8 animate-fade-in">
           <div className="relative inline-block mb-6">
-            <img
+            <img loading="lazy" decoding="async"
               src={profilePhoto}
               alt="Ian Chau - Product Manager"
               className="w-40 h-40 md:w-48 md:h-48 rounded-full object-cover object-top mx-auto shadow-hero border-4 border-primary-foreground/20"
