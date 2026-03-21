@@ -10,7 +10,7 @@ import sidewlkSite3 from "@/assets/sidewlk-site-3.jpg";
 import sidewlkFloorplan from "@/assets/sidewlk-floorplan.png";
 import sidewlkTeam from "@/assets/sidewlk-team-new.jpg";
 import sidePresentsLogo from "@/assets/side-presents-logo.png";
-import hkuCrest from "@/assets/original.png";
+import hkuCrest from "@/assets/hku-logo.jpg";
 import web3Alibaba from "@/assets/web3-alibaba.jpg";
 import web3Temple from "@/assets/web3-temple.jpg";
 import web3Hangzhou from "@/assets/web3-hangzhou.jpg";
@@ -90,7 +90,7 @@ const Work = () => {
                 </div>
                 <div>
                   <p className="text-muted-foreground">Timeline</p>
-                  <p className="text-foreground font-medium">Fall 2025 - Present (Ongoing)</p>
+                  <p className="text-foreground font-medium">Fall 2025 - Spring 2026</p>
                 </div>
                 <div className="flex items-center gap-2">
                   <div>
@@ -114,7 +114,7 @@ const Work = () => {
                   Project Overview
                 </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  This ongoing project is the core component of my interdisciplinary Web3.0 for Social Impact course. Our mission is to develop a digital platform that addresses the critical social issue of weak local support networks. The platform will empower residents to initiate help requests, organize community initiatives, and foster trust and collaboration within their neighborhoods. The project is currently in the active ideation phase, where we are synthesizing key learnings from guest lectures and an immersive field trip to Shanghai and Hangzhou visiting companies like Alibaba, Ant Finance and Sense Time.
+                  This project was the core component of my interdisciplinary Web3.0 for Social Impact course. Our mission was to develop a digital platform that addressed the critical social issue of weak local support networks. The platform empowered residents to initiate help requests, organize community initiatives, and foster trust and collaboration within their neighborhoods. Throughout the project, we synthesized key learnings from guest lectures and an immersive field trip to Shanghai and Hangzhou visiting companies like Alibaba, Ant Finance and Sense Time.
                 </p>
               </div>
 
@@ -140,7 +140,7 @@ const Work = () => {
                         Understood the key trade-off between achieving high societal efficiency and maintaining digital autonomy and privacy
                       </li>
                       <li>
-                        These insights now guide our project, pushing us to build a community platform that leverages tech for good while prioritizing user control, transparency, and consent
+                        These insights guided our project, pushing us to build a community platform that leveraged tech for good while prioritizing user control, transparency, and consent
                       </li>
                     </ul>
                   </div>
@@ -153,13 +153,13 @@ const Work = () => {
                     </h3>
                     <ul className="space-y-3 text-muted-foreground pl-5 list-disc">
                       <li>
-                        <span className="font-medium text-foreground">Research & Problem Definition:</span> Conducting research to address the lack of immediate support networks for residents in local neighbourhoods
+                        <span className="font-medium text-foreground">Research & Problem Definition:</span> Conducted research to address the lack of immediate support networks for residents in local neighbourhoods
                       </li>
                       <li>
-                        <span className="font-medium text-foreground">Insight Synthesis:</span> Synthesizing insights from our field trip to China on tech ethics and AI governance to shape our platform's design principles
+                        <span className="font-medium text-foreground">Insight Synthesis:</span> Synthesized insights from our field trip to China on tech ethics and AI governance to shape our platform's design principles
                       </li>
                       <li>
-                        <span className="font-medium text-foreground">Platform Ideation:</span> Collaborating in the ideation and conceptualization of a Web3.0-inspired platform designed to facilitate community help and collaboration
+                        <span className="font-medium text-foreground">Platform Ideation:</span> Collaborated in the ideation and conceptualization of a Web3.0-inspired platform designed to facilitate community help and collaboration
                       </li>
                     </ul>
                   </div>

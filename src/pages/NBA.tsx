@@ -69,7 +69,7 @@ const NBA = () => {
               {/* Single Description */}
               <div className="text-left">
                 <p className="text-muted-foreground leading-relaxed">
-                  Attending NBA events at iconic locations like Hong Kong's Central Market and observing global brand collaborations like the Hennessy x NBA campaign. Witnessing firsthand how the league localizes its brand and engages with international communities through immersive pop-ups.
+                  Attended NBA events at iconic locations like Hong Kong's Central Market and observed global brand collaborations like the Hennessy x NBA campaign. Witnessed firsthand how the league localized its brand and engaged with international communities through immersive pop-ups.
                 </p>
               </div>
             </div>
@@ -110,7 +110,7 @@ const NBA = () => {
               {/* Single Description */}
               <div className="text-left">
                 <p className="text-muted-foreground leading-relaxed">
-                  Connecting with NBA legends like Shaquille O'Neal and Mike Miller. These interactions offer a unique perspective on player branding and the immense cultural impact of basketball icons globally.
+                  Connected with NBA legends like Shaquille O'Neal and Mike Miller. These interactions offered a unique perspective on player branding and the immense cultural impact of basketball icons globally.
                 </p>
               </div>
             </div>
@@ -150,7 +150,7 @@ const NBA = () => {
                 </div>
                 <div className="text-left">
                   <p className="text-muted-foreground leading-relaxed">
-                    Experiencing the historic TD Garden and the electric atmosphere of a Boston Celtics game. Witnessing firsthand the deep-rooted passion of the fanbase and the rich championship culture that defines the arena.
+                    Experienced the historic TD Garden and the electric atmosphere of a Boston Celtics game. Witnessed firsthand the deep-rooted passion of the fanbase and the rich championship culture that defined the arena.
                   </p>
                 </div>
               </div>
@@ -176,7 +176,7 @@ const NBA = () => {
                 </div>
                 <div className="text-left">
                   <p className="text-muted-foreground leading-relaxed">
-                    Exploring the state-of-the-art Intuit Dome, the new home of the LA Clippers. Observing the cutting-edge technology, fan-centric design, and innovative features that are redefining the modern NBA arena experience.
+                    Explored the state-of-the-art Intuit Dome, the new home of the LA Clippers. Observed the cutting-edge technology, fan-centric design, and innovative features that redefined the modern NBA arena experience.
                   </p>
                 </div>
               </div>
@@ -202,7 +202,7 @@ const NBA = () => {
                 </div>
                 <div className="text-left">
                   <p className="text-muted-foreground leading-relaxed">
-                    Continuing the journey across different NBA venues, soaking in the unique energy and traditions that each city brings to the game. Every arena tells its own story through its fans, architecture, and game-day presentation.
+                    Continued the journey across different NBA venues, soaking in the unique energy and traditions that each city brought to the game. Every arena told its own story through its fans, architecture, and game-day presentation.
                   </p>
                 </div>
               </div>
